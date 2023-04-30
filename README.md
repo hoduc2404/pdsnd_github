@@ -8,7 +8,7 @@ Post your Work on GitHub
 
 
 ### Description
-Describe what your project is about and what it does
+In this project, you will simulate a real-life workflow to refactor your previous bike share Project using Git.
 
 
 
